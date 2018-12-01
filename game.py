@@ -19,4 +19,4 @@ if p2type=="f":
 if p2type=="d":
   print "you selected DARKNESS"
 print "BEGIN THE FIGHT"
-print player1, "your turn!"
+print player1, "your turn."
